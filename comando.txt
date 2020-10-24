@@ -1,1 +1,3 @@
 git config --lis
+
+git config --unset-all
